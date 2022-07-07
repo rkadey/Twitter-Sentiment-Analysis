@@ -5,7 +5,7 @@ Prior to winning the seat of goverment in 2016, the then Presidential Candidate 
 This project seeks to analyse the sentiments of twitter users on the building of the National Cathedral.
 
 ## Project Strategy
-[!image](Twitter Analysis Project Breakdown Infographics.png)
+![image](https://github.com/rkadey/Twitter-Sentiment-Analysis/blob/main/Twitter%20Analysis%20Project%20Breakdown%20Infographics.png?raw=true)
 
 
 
