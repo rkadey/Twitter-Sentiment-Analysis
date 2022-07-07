@@ -9,5 +9,8 @@ This project seeks to analyse the sentiments of twitter users on the building of
 
 
 
-### Data
-Our data for the project was taken from twitter with a sample size of 50,000 tweets. 
+### Data Mining
+Our data for the project was mined from twitter with a sample size of 50,000 tweets. Python library snscrape.modules was imported to help with the mining. I queried tweets of Nationa Cathedral from 01 January 2018 to 07 July 2022. The data was loaded into my jupyter notebook and stored in a pandas dataframe named Data.
+
+### Data Cleaning
+
