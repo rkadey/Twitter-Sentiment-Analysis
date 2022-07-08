@@ -13,4 +13,6 @@ This project seeks to analyse the sentiments of twitter users on the building of
 Our data for the project was mined from twitter with a sample size of 50,000 tweets. Python library snscrape.modules was imported to help with the mining. I queried tweets of Nationa Cathedral from 01 January 2018 to 07 July 2022. The data was loaded into my jupyter notebook and stored in a pandas dataframe named Data.
 
 ### Data Cleaning
+The tweets in its raw state involved a lot of symbols, pictograghs, flags, emojis and links as well as transport and map symbols. This were removed by creating cleanText function and applying it to the Data. Retweets were also removed to avoid duplicate of data.
 
+A check on the location column of our data reveals missing values. Those missing values were replcaed with 'NaN' and later changed to 'No location'.
