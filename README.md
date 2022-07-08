@@ -18,3 +18,5 @@ The tweets in its raw state involved a lot of symbols, pictograghs, flags, emoji
 A check on the location column of our data reveals missing values. Those missing values were replcaed with 'NaN' and later changed to 'No location'. We define our custom Stop words ['ng', 'gh', 'GHC', 'million', 'RF', 'National', 'Cathedral', 'secretariat'] and added it to the default English Stop words [words that are unimportant like 'is, 'and' etc.] as well as the English alphabelts. This is to help our model concentrate on more important words for our analysis.
 
 Some NLP concepts like tokenization were implored to reduce texts into smaller units. I defined a new function called getAdjectives to help get adjectives in out tweets. For example, the sentence "The National Cathedral is shameful and waste of ghanaian taxes" brings out the adjectives shameful and waste.
+
+### Data Exploration & Analysis
