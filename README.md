@@ -15,4 +15,4 @@ Our data for the project was mined from twitter with a sample size of 50,000 twe
 ### Data Cleaning
 The tweets in its raw state involved a lot of symbols, pictograghs, flags, emojis and links as well as transport and map symbols. This were removed by creating cleanText function and applying it to the Data. Retweets were also removed to avoid duplicate of data.
 
-A check on the location column of our data reveals missing values. Those missing values were replcaed with 'NaN' and later changed to 'No location'.
+A check on the location column of our data reveals missing values. Those missing values were replcaed with 'NaN' and later changed to 'No location'. We define our custom Stop words ['ng', 'gh', 'GHC', 'million', 'RF', 'National', 'Cathedral', 'secretariat'] and added it to the default English Stop words [words that are unimportant like 'is, 'and' etc.] and alphabelts. This is to help our model concentrate on more important words for our analysis.
