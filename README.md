@@ -20,3 +20,4 @@ A check on the location column of our data reveals missing values. Those missing
 Some NLP concepts like tokenization were implored to reduce texts into smaller units. I defined a new function called getAdjectives to help get adjectives in out tweets. For example, the sentence "The National Cathedral is shameful and waste of ghanaian taxes" brings out the adjectives shameful and waste.
 
 ### Data Exploration & Analysis
+Next, I explored the data by visualizing the tweet adjectives from our prvious step. A word cloud was generated to show the most occuring or used adjectives. Our analysis shows that the word "funeral" was used 3613 times followed by the word "new" which was also used 1173 times.
