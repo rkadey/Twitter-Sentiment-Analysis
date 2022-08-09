@@ -22,3 +22,7 @@ Some NLP concepts like tokenization were implored to reduce texts into smaller u
 ### Data Exploration & Analysis
 Next, I explored the data by visualizing the tweet adjectives from our prvious step. A word cloud was generated to show the most occuring or used adjectives. Our analysis shows that the word "funeral" was used 3613 times followed by the word "new" which was also used 1173 times. The third most used word is "former" with a total of 1027 appearance.
 
+### Insights Generated
+
+
+
