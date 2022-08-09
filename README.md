@@ -24,5 +24,5 @@ Next, I explored the data by visualizing the tweet adjectives from our prvious s
 
 ### Insights Generated
 
-
+![image](https://github.com/rkadey/Twitter-Sentiment-Analysis/blob/main/download.png)
 
